@@ -1,4 +1,4 @@
-# Chapter 1: What Programming Really Is (First Principles) 
+# 01 - What Programming Really Is (First Principles)
 
 ## Goal of this Chapter
 Understand what programming actually means at the most basic level, so your brain stops freezing when you see a problem.
