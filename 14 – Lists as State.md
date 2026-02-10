@@ -194,12 +194,16 @@ Explain what a list is, using logic words only.
 Task 2
 Give three real-world examples where list state is needed.
 
-- Names, Ages, Roll No. of children in class
+- Students in a class.
+- Songs in a playlist.
+- Messages in a chat.
 
 Task 3
 Explain why a list should be treated as one state.
 
-- Because all the values are of related type.
+- All values belong to one system.
+- All values are of related types.
+- Treating items as separate states cause sync problems.
 
 Task 4
 Describe the logic of adding an item to a list.
